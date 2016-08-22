@@ -1,0 +1,15 @@
+############
+# Git Ignore
+############
+*.swp
+*.zip
+*.dot
+*.dot-input
+*.gif
+*.mwb.bak
+*/__pycache__/*
+*/.idea/*
+*.sqlite3
+*.pyc
+*/ipphone/*
+*/build/*
